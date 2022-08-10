@@ -3,6 +3,7 @@ title: Motivations
 layout: page
 exclude: true
 ---
+
 TODO: hopefully done w rough draft, just look over
 
 I hope to correctly identify the cause areas that will be most impactful to

@@ -9,6 +9,9 @@ title: Path Pondering
 layout: home
 exclude: true
 ---
+{:refdef: style="text-align: center;"}
+![](/assets/poetOnMountain.png){: width="350" }
+{:refdef}
 
 # Intro: Purpose and Limitations
 I’m planning to take some time to think over cause prioritization in order to
