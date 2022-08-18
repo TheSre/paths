@@ -9,9 +9,12 @@ title: Path Pondering
 layout: home
 exclude: true
 ---
+<br>
 {:refdef: style="text-align: center;"}
-![](/assets/poetOnMountain.png){: width="350" }
+![](/assets/poetOnMountain.png){: width="400" }
 {:refdef}
+<br>
+<br>
 
 # Intro: Purpose and Limitations
 I’m planning to take some time to think over cause prioritization in order to
@@ -29,8 +32,10 @@ considerations will hopefully serve as a solid foundation and starting point. I
 imagine I’ll be refining these ideas over the course of many years, or even
 decades.
 
+<!---
 # [Motivations](motivations)
 
 # Decision-relevant, Meta Considerations
 
 # Cause Areas
+-->
