@@ -16,7 +16,7 @@ exclude: true
 <br>
 <br>
 
-# Intro: Purpose and Limitations
+## Intro: Purpose and Limitations
 I’m planning to take some time to think over cause prioritization in order to
 decide which cause areas or paths are most impactful for me to contribute to.
 I’d like to be thorough and rigorous. I believe that being right or wrong about
@@ -33,9 +33,9 @@ imagine I’ll be refining these ideas over the course of many years, or even
 decades.
 
 <!---
-# [Motivations](motivations)
+## [Motivations](motivations)
 
-# Decision-relevant, Meta Considerations
+## Decision-relevant, Meta Considerations
 
-# Cause Areas
+## Cause Areas
 -->
