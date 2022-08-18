@@ -11,7 +11,7 @@ exclude: true
 ---
 <br>
 {:refdef: style="text-align: center;"}
-![](/assets/poetOnMountain.png){: width="400" }
+![](/assets/poetOnMountain.png){: width="475" }
 {:refdef}
 <br>
 <br>
@@ -33,7 +33,11 @@ imagine I’ll be refining these ideas over the course of many years, or even
 decades.
 
 <!---
-## [Motivations](motivations)
+<br>
+{:refdef: style="text-align: center;"}
+[Next](motivations)
+{:refdef}
+### [Motivations](motivations)
 
 ## Decision-relevant, Meta Considerations
 
