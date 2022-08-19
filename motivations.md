@@ -4,11 +4,23 @@ layout: page
 exclude: true
 ---
 
-TODO: consider just placing this link here--seems more comprehensive &
-covers more bases left uncovered on this page:
-https://80000hours.org/articles/your-choice-of-problem-is-crucial/
+<!--- TODO: hopefully done w rough draft, just look over -->
 
-TODO: hopefully done w rough draft, just look over
+I started writing up this page  and then realized that [this 80,000
+Hours
+article](https://80000hours.org/articles/your-choice-of-problem-is-crucial/)
+likely sums it up better than I can.
+
+
+<!---
+***Note***: *If you're going to read 1 page on this topic, I'd strongly
+recommend reading [this
+page](https://80000hours.org/articles/your-choice-of-problem-is-crucial/)
+instead. It covers more bases and is a more thoughtful, detailed
+resource. The below example uses a "cost-effectiveness" lens, whereas
+the page linked above breaks things down into smaller components that
+can influence cost-effectiveness: importance, neglectedness, and
+tractability.*
 
 I hope to correctly identify the cause areas that will be most
 impactful to contribute to because I want to have a significant
@@ -23,7 +35,7 @@ Adjusting the 2006 number for inflation to the equivalent amount in
 Malaria Foundation (AMF) was [able to save a life for roughly $5,500
 on average](https://www.givewell.org/charities/top-charities) in 2021.
 The number the U.S. government is willing to spend is about 1,801
-times GiveWell's estimate[^2]. Given that we have limited resources,
+times the GiveWell estimate[^2]. Given that we have limited resources,
 these differences in cost-effectiveness mean that some approaches to
 helping others are much more impactful than others. For example, let's
 take the [average annual wage in the U.S. from May
@@ -34,10 +46,15 @@ person gave it to AMF, they'd be able to save something on the order
 of 37 lives (see [^2] on the accuracy and usage of cost-effectiveness
 estimates and "number of lives saved"). If the person spent the money
 in line with the US government's threshold value, then they'd have
-saved 0.02 lives. It's easy to not the significance Hopefully, this example highlights how significantly
-cause areas can differ in impact and the urgency of finding the ones
-that are most impactful.
+saved 0.02 lives. It can be difficult when just looking at the numbers
+to get a visceral sense of what this difference means. Further, this
+doesn't account for the indirect effects of these additional people
+being alive (since they were saved). Hopefully, this example
+highlights how significantly cause areas can differ in impact and the
+urgency of finding the ones that are most impactful.
 
 ---
 [^1]: Based on [this calculator](https://www.bls.gov/data/inflation_calculator.htm), using June 2006 as the starting point and adjusting to June 2021.
 [^2]: Note: the GiveWell estimate shouldn't be taken as a solid, exact amount, but instead as a useful way to get a rough, ballpark idea of the differences in cost-effectiveness between two programs. Quoting from [their site](https://www.givewell.org/how-we-work/our-criteria/cost-effectiveness/cost-effectiveness-models), "We view cost-effectiveness analyses as valuable for helping us identify large differences in the cost-effectiveness of organizations we're considering for a recommendation and to encourage staff to think through relevant issues related to charities' work. However, although we spend significant staff time on our cost-effectiveness analyses, we consider our cost-effectiveness numbers to be extremely rough." More info can be found [here](https://www.givewell.org/how-we-work/our-criteria/cost-effectiveness).
+
+-->

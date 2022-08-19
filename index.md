@@ -32,6 +32,9 @@ considerations will hopefully serve as a solid foundation and starting point. I
 imagine I’ll be refining these ideas over the course of many years, or even
 decades.
 
+---
+## [Motivations](motivations)
+
 <!---
 <br>
 {:refdef: style="text-align: center;"}
